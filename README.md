@@ -1,1 +1,1 @@
-# Pyhton-basis-for-data-scietist
+# Python-basis-for-data-scientist
